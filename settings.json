@@ -1,0 +1,29 @@
+{
+    "specifiedHour": {
+        "startHour" : "0",
+        "endHour" : "24"
+
+    },
+    "openWeatherMap": {
+        "token" : "openWeatherMapのアクセストークン",
+        "cityList": [
+            "zip=530-0001,JP",
+            "lat=35.6809591&lon=139.7673068",
+            "q=Sapporo",
+            "q=Nagoya",
+            "q=Naha"
+
+        ]
+    },
+    "slack": {
+        "token": "slcakのアクセストークン,xoxb-",
+        "channelId": "PostしたいチャンネルのIDか名前"
+    },
+
+    "spreadsheet": {
+        "weather": "天気情報を書き込むスプレッドシートのID"
+    }
+
+}
+
+
