@@ -1,6 +1,10 @@
 # weatherInfoToSlackOnGAS
 openweathermapから翌日の雨情報をGASでslackに通知するアプリ  
+<br>
 ![image](https://user-images.githubusercontent.com/97940779/166614603-aea3d31f-aa45-4b7b-b8b8-306c8453d54e.png)  
+<br>
+<b>詳しい説明はこちらから<b>  
+https://qr.ae/pvYn5g
 <br>
 # Installation
 1. GoogleAppsScriptに保存し､Webアプリとしてデプロイします｡  URLは控えておいてください｡
