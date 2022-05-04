@@ -100,7 +100,7 @@ function GetWeather() {
 //参考 https://qiita.com/msnaru/items/512157e7b98a999c53a5, https://auto-worker.com/blog/?p=3760
 function ReadJson(fileName){ 
   //jsonの入っているフォルダを探す
-  const folderName = 'weatherBot';
+  const folderName = 'weatherBotSetting';
   const folderId = DriveApp.getFoldersByName(folderName).next().getId();
 
   const file = DriveApp.getFolderById(folderId).getFilesByName(fileName).next();
